@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shubhaksh.
-- 👀 I’m interested in Frontend Development and Python programming.
-- 🌱 I’m currently learning Python and Web Development.
+- 👋 Hi, I’m Shubhaksh Sengar (@shubhaksh), a student studying in 10th Standard🧑‍🎓.
+- 👀 I’m interested in Frontend Development, and Python programming.
+- 🌱 I’m currently learning Python🐍.
 - 📫 Reach me by emailing on shubhaksh.sengar@gmail.com
 
 <!---
